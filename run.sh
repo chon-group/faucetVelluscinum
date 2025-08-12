@@ -1,5 +1,3 @@
-#! /bin/sh
-
 #! /bin/bash
 FRAMEWORK="/usr/bin/npm"
 VELLUSCINUM="/usr/bin/velluscinum"
